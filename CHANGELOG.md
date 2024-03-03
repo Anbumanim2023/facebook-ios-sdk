@@ -10,7 +10,77 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## Unreleased
 
-[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.0.0...HEAD)
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v17.0.0...HEAD)
+
+## 17.0.0
+
+[2024-02-16](https://github.com/facebook/facebook-ios-sdk/releases/tag/v17.0.0) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.4.0...v17.0.0)
+
+## 16.4.0
+
+### Added
+
+- More support on integrity
+
+[2024-01-31](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.4.0) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.3.1...v16.4.0)
+
+## 16.3.1
+
+[2023-12-07](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.3.1) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.2.1...v16.3.1)
+
+## 16.2.1
+
+[2023-10-12](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.2.1) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.2.0...v16.2.1)
+
+## 16.2.0
+
+### Changed
+
+- Update the implementation for SKAdNetwork to use the latest Apple API
+
+[2023-09-21](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.2.0) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.1.3...v16.2.0)
+
+## 16.1.3
+
+[2023-07-10](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.1.3) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.1.2...v16.1.3)
+
+## 16.1.2
+
+[2023-06-23](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.1.2) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.1.1...v16.1.2)
+
+## 16.1.1
+
+### Fixed
+
+- Fix App AEM AutoSetup
+- Fix ATE status publishing issue
+
+[2023-06-13](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.1.1) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.1.0...v16.1.1)
+
+## 16.1.0
+
+### Fixed
+
+- Fix CAPI-G module
+
+[2023-04-21](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.1.0) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.0.1...v16.1.0)
+
+## 16.0.1
+
+### Changed
+- Flushed events if AEM Campaign ID is found
+
+[2023-03-22](https://github.com/facebook/facebook-ios-sdk/releases/tag/v16.0.1) |
+[Full Changelog](https://github.com/facebook/facebook-ios-sdk/compare/v16.0.0...v16.0.1)
 
 ## 16.0.0
 
